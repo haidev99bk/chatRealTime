@@ -1,0 +1,11 @@
+{
+  "name": "chatrealtime",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=D1E1GThcobc&list=PLRhlTlpDUWsxi380-2wosaNACGkz6u0uR&index=26",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
